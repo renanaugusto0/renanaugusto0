@@ -16,35 +16,28 @@ Here are some ideas to get you started:
 -->
 ##  Sobre mim
 
-Olá! Sou o [Seu Nome], um desenvolvedor web júnior apaixonado por criar soluções inovadoras. ‍
+Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar soluções inovadoras. ‍
 
 ** Minha jornada:**
-* **Linguagens:** Sou fluente em [Linguagens mais utilizadas], com destaque para [Linguagem principal].
-* **Frameworks:** Tenho experiência com [Frameworks e bibliotecas], como [Framework mais utilizado].
-* **Ferramentas:** Utilizo diariamente ferramentas como [Ferramentas de desenvolvimento], como [Ferramenta mais utilizada].
+* **Linguagens:** Sou fluente em PHP, JavaScript e Ruby, com destaque para o PHP.
+* **Frameworks:** Tenho experiência com React, MongoDB e Laravel.
+* **Ferramentas:** Utilizo diariamente ferramentas como Visual Studio Code.
 
 ** Minhas estatísticas:**
-* **Streak:**  Mantenho uma streak de [Número] dias no GitHub, demonstrando minha consistência e dedicação.
+* **Streak:**  Mantenho uma streak de 1 dias no GitHub, demonstrando minha consistência e dedicação.
 * **Linguagens mais utilizadas:** 
-    * [Linguagem 1]: [Porcentagem]%
-    * [Linguagem 2]: [Porcentagem]%
-    * [Linguagem 3]: [Porcentagem]%
+    * [PHP]: 60%
+    * [Ruby]: 30%
+    * [JavaScript]: 10%
 
-** Projetos:**
-* **[Nome do Projeto 1]:** [Descrição breve e impactante]
-    * [Tecnologias utilizadas]
-    * [Link para o repositório]
-* **[Nome do Projeto 2]:** [Descrição breve e impactante]
-    * [Tecnologias utilizadas]
-    * [Link para o repositório]
 
 ** Conecte-se comigo:**
 * **LinkedIn:** [Seu perfil no LinkedIn]
-* **Portfólio:** [Link para seu portfólio]
-* **Email:** [Seu email]
+* **Portfólio:** github.com/renanaugusto0
+* **Email:** renanaugustovelosomedeiros@gmail.com
 
 ** Sobre mim:**
-[Adicione um parágrafo sobre seus interesses, hobbies relacionados à programação ou qualquer outra informação que considere relevante para um recrutador.]
+Sou completamente apaixonado por tecnologia. Meus hobbies preferidos são estudar, ler, e passar tempo de qualidade com quem amo.
 
 ##  Contribua para meus projetos!
 Sinta-se à vontade para contribuir com meus projetos. Se tiver alguma dúvida ou sugestão, abra um issue.
