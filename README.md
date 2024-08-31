@@ -21,7 +21,7 @@ Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar sol
 **Minha jornada:**
 * **Linguagens:** Sou fluente em PHP, JavaScript e Ruby, com destaque para o PHP.
 * **Frameworks:** Tenho experiência com React, MongoDB e Laravel.
-* **Ferramentas:** Utilizo diariamente ferramentas como Visual Studio Code.
+* **Ferramentas:** Utilizo diariamente ferramentas como Visual Studio Code, Git, Figma, Trello e afins;
 
 **Minhas estatísticas:**
 * **Streak:**  Mantenho uma streak de 1 dias no GitHub, demonstrando minha consistência e dedicação.
@@ -32,8 +32,8 @@ Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar sol
 
 
 **Conecte-se comigo:**
-* **LinkedIn:** 
-* **Portfólio:** github.com/renanaugusto0
+* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/renan-augusto-v-204585308/)
+* **Portfólio:** [github.com/renanaugusto0](https://github.com/renanaugusto0)
 * **Email:** renanaugustovelosomedeiros@gmail.com
 
 **Sobre mim:**
