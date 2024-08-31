@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Renan Augusto | 17 Anos | Brasil 
-Desenvolvedor apaixonado por tecnologia e inovação.
-Acredito no poder da programação para mudar o mundo e a vida das pessoas.
+### :fire: My Stats :
 
-Habilidades: 
