@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar soluções inovadoras. ‍
 
-** Minha jornada:**
+**Minha jornada:**
 * **Linguagens:** Sou fluente em PHP, JavaScript e Ruby, com destaque para o PHP.
 * **Frameworks:** Tenho experiência com React, MongoDB e Laravel.
 * **Ferramentas:** Utilizo diariamente ferramentas como Visual Studio Code.
