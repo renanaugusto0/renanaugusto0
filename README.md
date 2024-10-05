@@ -1,30 +1,54 @@
-##  Renan Augusto - Desenvolvedor Web Júnior
+# 👋 Renan Augusto - Desenvolvedor Web Júnior
 
-Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar soluções inovadoras. ‍
+Olá! Sou o Renan Augusto, um desenvolvedor web júnior apaixonado por criar soluções inovadoras. 🌟
 
-**Minha jornada**
-* **Linguagens:** Sou fluente em PHP, JavaScript, Python e Ruby;
-* **Frameworks:** Tenho experiência com React, MongoDB e Laravel.
-* **Ferramentas:** Utilizo diariamente ferramentas como Visual Studio Code, Git, Figma, Trello e afins;
-* **Metodologias Agéis:** Scrum e Kanban;
+---
 
-**Conecte-se comigo:**
-* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/renan-augusto-v-204585308/)
-* **Portfólio:** [github.com/renanaugusto0](https://github.com/renanaugusto0)
-* **Email:** renanaugustovelosomedeiros@gmail.com
+## 🚀 Minha Jornada
 
-**Sobre mim**
-Sou completamente apaixonado por tecnologia. Meus hobbies preferidos são estudar, ler, e conhecer lugares novos;
+### 💻 Linguagens
+- **PHP**
+- **JavaScript**
 
-**Algumas Ceritificações Minhas**
-* **Ai 900 - 40 horas - SENAI**
-* **Desenvolvimento Web JavaScript - 60 horas - SENAI**
-* **Excel Básico - 40 horas - SENAI**
+### 🛠️ Frameworks
+- **Laravel**
 
-##  Contribua para meus projetos!
-Sinta-se à vontade para contribuir com meus projetos. Se tiver alguma dúvida ou sugestão, abra um issue.
+### 🧰 Ferramentas
+- Visual Studio Code
+- Git
+- Figma
+- Trello
 
-**Agradeço pela visita!**
+### 📈 Metodologias Ágeis
+- Scrum
+- Kanban
 
+---
 
+## 🌐 Conecte-se Comigo
+- **LinkedIn:** [Renan Augusto](https://www.linkedin.com/in/renan-augusto-v-204585308/)
+- **Portfólio:** [GitHub](https://github.com/renanaugusto0)
+- **Email:** renanaugustovelosomedeiros@gmail.com
 
+---
+
+## 💡 Sobre Mim
+Sou completamente apaixonado por tecnologia. Nos meus tempos livres, adoro estudar, ler e explorar novos lugares. ✈️
+
+---
+
+## 🎓 Algumas Formações
+- **AI 900 - 40 horas** - SENAI
+- **Desenvolvimento Web JavaScript - 60 horas** - SENAI
+- **Desenvolvimento Multiplataforma - 120 horas** - SENAI
+- **Fundamentos de Cibersegurança - 14 horas** - Google
+- **Gerenciar Riscos de Segurança - 11 horas** - Google
+
+---
+
+## 🤝 Contribua para Meus Projetos!
+Sinta-se à vontade para contribuir com meus projetos. Se tiver alguma dúvida ou sugestão, abra uma issue!
+
+---
+
+**Agradeço pela visita!** 😊
