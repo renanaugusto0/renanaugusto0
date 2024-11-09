@@ -2,10 +2,8 @@
 
 Olá, eu sou o Renan Augusto! 🚀 Sou um desenvolvedor web júnior com uma paixão incansável por tecnologia e inovação. Meu objetivo é criar soluções digitais que impactem positivamente a vida das pessoas, enquanto continuo a aprimorar minhas habilidades e me preparo para uma carreira em Engenharia da Computação. 
 
-Atualmente, estou focado em explorar novas tecnologias, aprimorar minhas habilidades em programação e me aprofundar nas áreas de **Inteligência Artificial** e **Inovação**. 🌟
-# Commit Streak
+Atualmente, estou focado em explorar novas tecnologias, aprimorar minhas habilidades em programação e me aprofundar nas áreas de **Inteligência Artificial**, **Desenvolvimento Web** e **Inovação**. 🌟
 
-![Commit Streak](https://streak-stats.demolab.com/?user=renanaugusto0&theme=light&hide_border=false)
 ---
 
 ## 🚀 Minha Jornada
