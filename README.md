@@ -1,77 +1,62 @@
-# 👨‍💻 Renan Augusto - Desenvolvedor Web Júnior | Aspirante a Engenheiro da Computação
+# 👨‍💻 **Renan Augusto - Programador Freelance**
 
-Olá, eu sou o Renan Augusto! 🚀 Sou um desenvolvedor web júnior com uma paixão incansável por tecnologia e inovação. Meu objetivo é criar soluções digitais que impactem positivamente a vida das pessoas, enquanto continuo a aprimorar minhas habilidades e me preparo para uma carreira em Engenharia da Computação. 
-
-Atualmente, estou focado em explorar novas tecnologias, aprimorar minhas habilidades em programação e me aprofundar nas áreas de **Inteligência Artificial**, **Desenvolvimento Web** e **Inovação**. 🌟
+Bem-vindo ao meu repositório! Sou **Renan Augusto**, um programador freelance dedicado a transformar ideias em soluções digitais de alto impacto. Com uma abordagem estratégica e uma execução técnica impecável, ajudo empresas e empreendedores a criar projetos que realmente fazem a diferença. 🚀
 
 ---
 
-## 🚀 Minha Jornada
+## 🎯 **Por que escolher trabalhar comigo?**
 
-### 💻 **Linguagens de Programação**
-Sou apaixonado por programação e sempre estou aprendendo algo novo! Atualmente, trabalho com as seguintes linguagens:
-
-- **JavaScript** (Front-end & Back-end) – Essencial para desenvolvimento web
-- **C++** (Em processo de aprendizado) – Explorando o mundo da programação de baixo nível
-- **PHP** (Em processo de aprendizado) – Expandindo meu conhecimento em backend
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renanaugusto0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🧰 **Ferramentas de Desenvolvimento**
-Utilizo as melhores ferramentas para otimizar meu trabalho e criar soluções mais eficazes:
-
-- **Visual Studio Code** – Meu editor de código favorito para produtividade.
-- **Git & GitHub** – Controle de versão e colaboração em projetos.
-- **Figma** – Para criar protótipos de interfaces e UX/UI.
-- **Trello** – Organizo meus projetos e tarefas de forma ágil.
-
-### 📈 **Metodologias Ágeis**
-Acredito que a agilidade é a chave para o sucesso em projetos de desenvolvimento. Estou familiarizado com as principais metodologias:
-
-- **Scrum** – Para gestão de projetos de forma iterativa e incremental.
-- **Kanban** – Para fluxo contínuo e entrega eficiente.
+- **🌟 Qualidade acima de tudo:** Cada linha de código é escrita com cuidado para entregar soluções robustas e escaláveis.
+- **⚡ Resultados rápidos:** Sou ágil, mas sem comprometer a excelência.
+- **📚 Atualização constante:** Mantenho-me sempre atualizado com as melhores práticas e tecnologias emergentes.
+- **💼 Comprometimento total:** A sua visão se torna a minha prioridade, e garanto um processo colaborativo do início ao fim.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🚀 **Habilidades Técnicas**
 
-Estou sempre aberto a novas colaborações e discussões sobre tecnologia. Se você compartilha dos mesmos interesses ou se deseja trocar ideias, vamos nos conectar!
+### 🌐 **Desenvolvimento Web**
+- **Back-End:** Especialista em criar sistemas sólidos, rápidos e seguros.
+- **Front-End:** Interfaces modernas e responsivas que encantam os usuários.
+- **APIs:** Integrações poderosas que conectam sistemas de forma fluida.
 
-- **LinkedIn:** [Renan Augusto](https://www.linkedin.com/in/renan-augusto-v-204585308/)
-- **GitHub:** [Renan Augusto](https://github.com/renanaugusto0)
-- **Email:** [renanaugustovelosomedeiros@gmail.com](mailto:renanaugustovelosomedeiros@gmail.com)
+### 🛠️ **Tecnologias e Ferramentas**
+- **Linguagens:** JavaScript, Python, PHP.
+- **Frameworks:** Node.js, React.js.
+- **Banco de Dados:** MySQL, MongoDB.
+- **Controle de Versão:** Git & GitHub.
+- **Design e Prototipagem:** Figma para transformar ideias em realidades visuais.
 
----
-
-## 💡 Sobre Mim
-
-Sou um **entusiasta da tecnologia**, sempre em busca de novos desafios para expandir meus conhecimentos. No meu tempo livre, estudo novas tecnologias, desenvolvo projetos desafiadores e exploro conceitos avançados de **Inteligência Artificial** e **Inovação**. 
-
-Atualmente, estou me preparando para ingressar no ensino superior em **Engenharia da Computação**, o que considero um passo fundamental para aprofundar meu conhecimento e abrir portas para novas oportunidades na área de tecnologia.
-
----
-
-## 🎓 **Formações e Certificações**
-Ao longo da minha jornada, busquei constantemente me qualificar em áreas-chave do desenvolvimento e da tecnologia:
-
-- **AI-900: Microsoft Azure AI Fundamentals** – **SENAI** (40 horas)
-- **Desenvolvimento Web com JavaScript** – **SENAI** (60 horas)
-- **Desenvolvimento Multiplataforma** – **SENAI** (120 horas)
-- **Fundamentos de Cibersegurança** – **Google** (14 horas)
-- **Gerenciar Riscos de Segurança** – **Google** (11 horas)
+  
+ [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=renanaugusto0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🤝 Vamos Colaborar!
+## 📈 **Metodologia de Trabalho**
 
-Estou sempre aberto a novas oportunidades de colaboração! Se você está interessado em algum dos meus projetos ou tem sugestões, fique à vontade para abrir uma **issue** no meu GitHub. Vamos trocar ideias, aprender juntos e construir soluções incríveis!
-
----
-
-## 📬 **Obrigado pela Visita!**
-
-Estou sempre em busca de crescimento e novas oportunidades. Se você se interessa por tecnologia, programação ou simplesmente quer trocar experiências, estou à disposição para conversar. Vamos juntos nessa jornada!
+- **🔍 Planejamento detalhado:** Cada projeto começa com uma análise estratégica das suas necessidades.
+- **⚙️ Execução otimizada:** Utilizo metodologias ágeis como Scrum para garantir entregas rápidas e alinhadas com suas expectativas.
+- **✅ Testes e validações:** Antes de entregar, asseguro que tudo está funcionando perfeitamente.
 
 ---
 
-**"A tecnologia não é só sobre escrever código, é sobre criar algo que transforme a vida das pessoas."** 🌍
+## 🌟 **Destaques da Minha Jornada**
+
+- Desenvolvimento de **landing pages** que aumentaram a conversão de clientes para startups.
+- Criação de **sistemas de gestão personalizados** que otimizam processos empresariais.
+- Participação ativa em **projetos de inovação**, combinando criatividade e tecnologia de ponta.
+
+---
+
+## 🤝 **Vamos Criar Algo Incrível Juntos?**
+
+Estou sempre pronto para novos desafios e projetos! Vamos conversar e descobrir como posso ajudar a transformar sua ideia em realidade.  
+
+- **LinkedIn:** [Renan Augusto](https://www.linkedin.com/in/renan-augusto-v-204585308/)  
+- **GitHub:** [Renan Augusto](https://github.com/renanaugusto0)  
+- **Email:** [renanaugustovelosomedeiros@gmail.com](mailto:renanaugustovelosomedeiros@gmail.com)  
+
+---
+
+**"Mais do que código, entrego impacto e resultados."**  
+🌍 Vamos construir juntos o futuro que você imagina!
