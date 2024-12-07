@@ -1,6 +1,6 @@
-# 👨‍💻 **Renan Augusto - Programador Freelance**
+# 👨‍💻 **Renan Augusto**
 
-Bem-vindo ao meu repositório! Sou **Renan Augusto**, um programador freelance dedicado a transformar ideias em soluções digitais de alto impacto. Com uma abordagem estratégica e uma execução técnica impecável, ajudo empresas e empreendedores a criar projetos que realmente fazem a diferença. 🚀
+Bem-vindo ao meu repositório! Sou **Renan Augusto**, um programador dedicado a transformar ideias em soluções digitais de alto impacto. Com uma abordagem estratégica e uma execução técnica impecável.🚀
 
 ---
 
